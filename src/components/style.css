@@ -1,0 +1,11 @@
+.square{
+    width : 100px;
+    height : 100px;
+    padding : 0px;
+    float: left;
+}
+
+.board-row{
+    clear : both;
+
+}
